@@ -1,1 +1,2 @@
-# whiteApp_redux
+# Strapi library
+
